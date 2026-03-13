@@ -1,4 +1,4 @@
-# Power BI Dashboards
+# Power BI Analytical Dashboards
 
 A collection of interactive Power BI dashboards covering **Crypto Market Analysis**, **GitHub Analytics**, and **Business Intelligence (Nexa)**. Each project includes multiple report pages with KPIs, visualizations, and drill-down insights.
 
