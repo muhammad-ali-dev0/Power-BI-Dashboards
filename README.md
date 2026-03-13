@@ -1,4 +1,4 @@
-# Power BI Dashboards Portfolio
+# Power BI Dashboards
 
 A collection of interactive Power BI dashboards covering **Crypto Market Analysis**, **GitHub Analytics**, and **Business Intelligence (Nexa)**. Each project includes multiple report pages with KPIs, visualizations, and drill-down insights.
 
@@ -8,14 +8,14 @@ A collection of interactive Power BI dashboards covering **Crypto Market Analysi
 
 Analytics on cryptocurrency markets: market cap, DeFi & yield, NFTs & Web3, network activity, and trends.
 
-| Report | Description |
-|--------|-------------|
-| **Market Overview** | High-level view of crypto market state and key metrics |
-| **Marketcap** | Market capitalization and ranking visualizations |
-| **Market Trends** | Time-series and trend analysis across assets |
-| **DeFi & Yield** | Decentralized finance and yield metrics |
-| **NFT & Web3** | NFT and Web3 ecosystem metrics |
-| **Network Activity** | On-chain and network activity indicators |
+| Report               | Description                                            |
+| -------------------- | ------------------------------------------------------ |
+| **Market Overview**  | High-level view of crypto market state and key metrics |
+| **Marketcap**        | Market capitalization and ranking visualizations       |
+| **Market Trends**    | Time-series and trend analysis across assets           |
+| **DeFi & Yield**     | Decentralized finance and yield metrics                |
+| **NFT & Web3**       | NFT and Web3 ecosystem metrics                         |
+| **Network Activity** | On-chain and network activity indicators               |
 
 ### Screenshots
 
@@ -55,13 +55,13 @@ Analytics on cryptocurrency markets: market cap, DeFi & yield, NFTs & Web3, netw
 
 GitHub repository and profile analytics: activity, languages, repositories, and profile scoring.
 
-| Report | Description |
-|--------|-------------|
-| **Dashboard Overview** | Main summary of GitHub metrics and activity |
-| **Repositories Overview** | Repository-level stats and comparisons |
-| **Activity Monitoring** | Contribution and activity tracking |
-| **Languages** | Language usage and distribution |
-| **Profile Scorer** | Profile strength and engagement scoring |
+| Report                    | Description                                 |
+| ------------------------- | ------------------------------------------- |
+| **Dashboard Overview**    | Main summary of GitHub metrics and activity |
+| **Repositories Overview** | Repository-level stats and comparisons      |
+| **Activity Monitoring**   | Contribution and activity tracking          |
+| **Languages**             | Language usage and distribution             |
+| **Profile Scorer**        | Profile strength and engagement scoring     |
 
 ### Screenshots
 
@@ -96,14 +96,14 @@ GitHub repository and profile analytics: activity, languages, repositories, and 
 
 Business intelligence suite for Sales, Finance, HR, Operations, E-Commerce, and Market Analysis.
 
-| Report | Description |
-|--------|-------------|
-| **Sales & Revenue** | Revenue, pipeline, and sales performance |
-| **Finance & P&L** | P&L, margins, and financial KPIs |
-| **HR & People** | Headcount, attrition, and people metrics |
-| **Operations** | Operational efficiency and process metrics |
-| **E-Commerce** | Online sales, funnel, and product performance |
-| **Market Analysis** | Market size, share, and competitive view |
+| Report              | Description                                   |
+| ------------------- | --------------------------------------------- |
+| **Sales & Revenue** | Revenue, pipeline, and sales performance      |
+| **Finance & P&L**   | P&L, margins, and financial KPIs              |
+| **HR & People**     | Headcount, attrition, and people metrics      |
+| **Operations**      | Operational efficiency and process metrics    |
+| **E-Commerce**      | Online sales, funnel, and product performance |
+| **Market Analysis** | Market size, share, and competitive view      |
 
 ### Screenshots
 
@@ -151,9 +151,9 @@ Power BI Dashboards/
 
 ## Tools
 
-- **Power BI** — Data modeling, DAX, and report design  
+- **Power BI** — Data modeling, DAX, and report design
 - **Data sources** — Varies by dashboard (APIs, databases, spreadsheets)
 
 ---
 
-*Built with Microsoft Power BI. Screenshots show report pages as of the latest update.*
+_Built with Microsoft Power BI. Screenshots show report pages as of the latest update._
